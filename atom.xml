@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kimpvp.github.io</id>
+    <title>kimpvp</title>
+    <updated>2022-09-29T14:47:55.317Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kimpvp.github.io"/>
+    <link rel="self" href="https://kimpvp.github.io/atom.xml"/>
+    <subtitle>分享一下</subtitle>
+    <logo>https://kimpvp.github.io/images/avatar.png</logo>
+    <icon>https://kimpvp.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, kimpvp</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://kimpvp.github.io/post/test/</id>
+        <link href="https://kimpvp.github.io/post/test/">
+        </link>
+        <updated>2022-09-29T14:38:59.000Z</updated>
+        <content type="html"><![CDATA[<p>地</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓手机上直接获取Activity的方法-20220920]]></title>
+        <id>https://kimpvp.github.io/post/an-zhuo-shou-ji-shang-zhi-jie-huo-qu-activity-de-fang-fa-20220920/</id>
+        <link href="https://kimpvp.github.io/post/an-zhuo-shou-ji-shang-zhi-jie-huo-qu-activity-de-fang-fa-20220920/">
+        </link>
+        <updated>2022-09-29T14:17:17.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="参考链接">参考链接</h2>
+<p><a href="https://www.coolapk.com/feed/16339174?shareKey=MDgzMGRlY2JjMzYxNjMyOTBjMTE~">酷安-桥边红药754926246-Xposed edge pro小白入门教程详解，即学即会！</a></p>
+<h2 id="手机端上直接获取activity的方法">手机端上直接获取Activity的方法</h2>
+<ol>
+<li>使用APP：Activity  <code>不支持安卓12，所以我没写</code></li>
+<li>使用APP：MT管理器</li>
+<li>使用APP：FV悬浮球</li>
+</ol>
+<h3 id="mt管理器获取activity的方法">MT管理器获取Activity的方法</h3>
+<ol>
+<li>打开APP，点击左上角的三条杠来打开菜单</li>
+<li>点击<strong>Activity记录</strong></li>
+<li>点击<strong>更多</strong>，再点击<strong>启用悬浮窗</strong>，点击<strong>启动服务</strong></li>
+<li>打开你需要获取的APP的activity的界面，悬浮窗会显示那个页面的activity</li>
+<li>返回MT管理器，点击刚刚显示的activity就可以记录下来了</li>
+</ol>
+<h3 id="fv悬浮球获取activity的方法">FV悬浮球获取Activity的方法</h3>
+<p>[[总结-FV悬浮球教程-获取当前应用页面的包名+activity-20220920]]</p>
+]]></content>
+    </entry>
+</feed>
